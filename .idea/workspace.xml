@@ -4,15 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57ceadb3-889e-4d56-b3e4-72e6675f68d5" name="Changes" comment="" />
+    <list default="true" id="57ceadb3-889e-4d56-b3e4-72e6675f68d5" name="Changes" comment="Updated the link for cloning the code.">
+      <change afterPath="$PROJECT_DIR$/src/test/java/IFramesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kiran-gh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kiran-gh/SeleniumWebDriverActions.git&quot;,
+    &quot;accountId&quot;: &quot;e81a7ef4-5c4c-45d2-b2de-829438fa0ee3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2lMaKtuWynAZEfakw0Vpm4iOkR1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -22,10 +40,40 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.JavaInterviewPractice.testIframesAndNavigation.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Kiran/Learning Nxtwave/SeleniumWebDriverActions/src/test/java",
     "onboarding.tips.debug.path": "E:/Kiran/Learning Nxtwave/SeleniumWebDriverActions/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Kiran\Learning Nxtwave\SeleniumWebDriverActions\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IFramesDemo.testIframesAndNavigation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriverActions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IFramesDemo" />
+      <option name="METHOD_NAME" value="testIframesAndNavigation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.IFramesDemo.testIframesAndNavigation" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,7 +83,20 @@
       <option name="presentableId" value="Default" />
       <updated>1724992343493</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated the link for cloning the code.">
+      <option name="closed" value="true" />
+      <created>1724994690482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724994690482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated the link for cloning the code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the link for cloning the code." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
