@@ -9,10 +9,10 @@ import java.io.IOException;
 import java.time.Duration;
 
 public class driverFactory {
-    public WebDriver driver;
+    public static WebDriver driver;
     public WebDriverWait wait;
 
-    public void launchBrowser(){
+    public static void launchBrowser(){
         System.setProperty("webdriver.chrome.driver","src/test/java/webdriver/chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
