@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57ceadb3-889e-4d56-b3e4-72e6675f68d5" name="Changes" comment="Developed IframesDemo project for demo purpose">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HandlingMultipleWindowsDemo.java" afterDir="false" />
+    <list default="true" id="57ceadb3-889e-4d56-b3e4-72e6675f68d5" name="Changes" comment="Developed HandlingMultipleWindowsDemo project for demo purpose">
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebDriverDifferentActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/driverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driverFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.HandlingMultipleWindows.executor": "Run",
     "TestNG.HandlingMultipleWindowsDemo.executor": "Run",
+    "TestNG.HandlingMultipleWindowsDemo.handleFlipkartWindow.executor": "Run",
     "TestNG.JavaInterviewPractice.testIframesAndNavigation.executor": "Run",
+    "TestNG.WebDriverDifferentActions.WebDriverDifferentActions.executor": "Run",
+    "TestNG.WebDriverDifferentActions.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/Kiran/Learning Nxtwave/SeleniumWebDriverActions/src/test/java",
@@ -72,7 +72,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.HandlingMultipleWindowsDemo.handleFlipkartWindow">
+  <component name="RunManager" selected="TestNG.WebDriverActions">
     <configuration name="HandlingMultipleWindowsDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWebDriverActions" />
       <option name="PACKAGE_NAME" value="" />
@@ -96,11 +96,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IFramesDemo.testIframesAndNavigation" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WebDriverActions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWebDriverActions" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IFramesDemo" />
-      <option name="METHOD_NAME" value="testIframesAndNavigation" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverActions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverDifferentActions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriverActions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverDifferentActions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverDifferentActions.WebDriverDifferentActions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriverActions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverDifferentActions" />
+      <option name="METHOD_NAME" value="WebDriverDifferentActions" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -110,9 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.WebDriverActions" />
+        <item itemvalue="TestNG.WebDriverDifferentActions.WebDriverDifferentActions" />
+        <item itemvalue="TestNG.WebDriverDifferentActions" />
         <item itemvalue="TestNG.HandlingMultipleWindowsDemo.handleFlipkartWindow" />
         <item itemvalue="TestNG.HandlingMultipleWindowsDemo" />
-        <item itemvalue="TestNG.IFramesDemo.testIframesAndNavigation" />
       </list>
     </recent_temporary>
   </component>
@@ -141,13 +165,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725979352567</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Developed HandlingMultipleWindowsDemo project for demo purpose">
+      <option name="closed" value="true" />
+      <created>1725982994660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725982994660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated the link for cloning the code." />
     <MESSAGE value="Developed IframesDemo project for demo purpose" />
-    <option name="LAST_COMMIT_MESSAGE" value="Developed IframesDemo project for demo purpose" />
+    <MESSAGE value="Developed HandlingMultipleWindowsDemo project for demo purpose" />
+    <option name="LAST_COMMIT_MESSAGE" value="Developed HandlingMultipleWindowsDemo project for demo purpose" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
